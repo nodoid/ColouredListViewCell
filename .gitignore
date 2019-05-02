@@ -1,0 +1,5 @@
+ColouredListViewCell.Android/bin/*
+ColouredListViewCell.Android/obj/*
+ColouredListViewCell.iOS/bin/*
+ColouredListViewCell.iOS/obj/*
+.vs/*
