@@ -4,9 +4,9 @@
         <ListView x:Name="ListView">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <View.TextCell>
+                    <uicell:CustomViewCell>
                         <Label Text="{Binding Letter}" TextColor="Purple" FontSize="Large" />
-                    </View.TextCell>
+                    </uicell:CustomViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
