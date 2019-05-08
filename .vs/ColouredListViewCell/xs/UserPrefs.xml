@@ -1,30 +1,14 @@
 ﻿<Properties StartupConfiguration="{116DB400-D46E-4A97-813E-8C31BEF1861C}|Default">
   <MonoDevelop.Ide.ItemProperties.ColouredListViewCell.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ColouredListViewCell.Android/CustomUIRenderers/CustomViewCellRenderer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColouredListViewCell/MainPage.xaml.cs">
     <Files>
-      <File FileName="ColouredListViewCell/MainPage.xaml.cs" Line="28" Column="81" />
+      <File FileName="ColouredListViewCell/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="ColouredListViewCell/MainPage.xaml" />
-      <File FileName="ColouredListViewCell/CustomUI/MyView.cs" Line="13" Column="10" />
-      <File FileName="ColouredListViewCell.iOS/CustomUIRenderers/CustomViewCellRenderer.cs" Line="22" Column="25" />
-      <File FileName="ColouredListViewCell.Android/CustomUIRenderers/CustomViewCellRenderer.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ColouredListViewCell" expanded="True">
-            <Node name="ColouredListViewCell" expanded="True">
-              <Node name="CustomUI" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
-            </Node>
-            <Node name="ColouredListViewCell.Android" expanded="True">
-              <Node name="CustomUIRenderers" expanded="True">
-                <Node name="CustomViewCellRenderer.cs" selected="True" />
-              </Node>
-            </Node>
-            <Node name="ColouredListViewCell.iOS" expanded="True">
-              <Node name="CustomUIRenderers" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="ColouredListViewCell" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

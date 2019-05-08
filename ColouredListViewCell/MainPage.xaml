@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ColouredListViewCell" x:Class="ColouredListViewCell.MainPage" xmlns:uicell="clr-namespace:ColouredListViewCell.CustomUI">
     <StackLayout>
         <ListView x:Name="ListView">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <uicell:CustomViewCell>
-                        <Label Text="{Binding Letter}" TextColor="Purple" FontSize="Large" />
-                    </uicell:CustomViewCell>
+                    <uicell:CustomViewCell Text="{Binding Letter}" TextColor="Purple" />
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
